@@ -1,6 +1,6 @@
 # Olá! 👋 
 <!-- ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="100px"> -->
-Me chamo Romário, Sou estudante de Frontend e também gosto de UI Design, atualmente estou no 2a Semestre de Sistemas para Internet. Estou sempre me esforçando para melhorar tanto em programação como no Design de Interação.
+Me chamo Romário, Sou estudante de Frontend e também gosto de UI Design, atualmente estou no 2a Semestre de Sistemas para Internet. Estou sempre me esforçando para melhorar tanto em programação como em Design de Interação.
 
 Contato:
 
