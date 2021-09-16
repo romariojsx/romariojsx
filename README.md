@@ -1,7 +1,7 @@
 # Olá, Romário dos Santos aqui! 👋 
 <!-- ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="100px"> -->
-Sou estudante de Programação front-end, Aprendendo a trabalhar com HTML, CSS e JavaScript... meu sonho é viver de programação, aprimorar meu conhecimentos e conquistar todos meus objetivos.
-No momento, estou aprendendo mais sobre UI / UX Design e interessado em melhorar ainda mais minhas habilidades de design.
+Sou estudante de Programação front-end, Aprendendo a trabalhar com HTML, CSS e JavaScript. Meu sonho é viver de programação, aprimorar meus conhecimentos e conquistar todos meus objetivos.
+No momento, estou aprendendo mais sobre UI/UX Design e interessado em melhorar ainda mais minhas habilidades de Design.
 
 Contato:
 
