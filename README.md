@@ -1,6 +1,6 @@
 # Olá! 👋 
 <!-- ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="100px"> -->
-Sou estudante de Programação Frontend. (HTML, CSS, JS, ReactJS, PHP) Meu sonho é viver de programação, aprimorar meus conhecimentos e conquistar todos meus objetivos.
+Estudando programação Frontend. (HTML, CSS, JS, ReactJS, PHP) Meu sonho é viver de programação, aprimorar meus conhecimentos e conquistar todos meus objetivos.
 
 --
 
