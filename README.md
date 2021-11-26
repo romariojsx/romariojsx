@@ -4,8 +4,6 @@ Sou estudante de Programação Frontend. (HTML, CSS, JS, ReactJS, PHP) Meu sonho
 
 --
 
-Right now i'm learn Frontend Programming. (HTML, CSS, JS, ReactJS, PHP) My dream is living of code, improving my code skills and get my goals.
-
 Contato:
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/romariojdosantos)](https://www.linkedin.com/in/romariojdosantos)
