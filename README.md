@@ -1,12 +1,5 @@
 # Olá! 👋 
-<!-- ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="100px"> -->
-```JS
-let frontend = [
-  'HTML5', 
-  'CSS3', 
-  'JavaScript',
-];
-```
+ ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="100px"> 
 
 --
 
