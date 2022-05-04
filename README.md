@@ -4,7 +4,6 @@ Desenvolvimento Front end and UI Design
 
 *   🌍  I'm based in Blumenau/SC - Brazil
 *   🖥️  See my portfolio at [romariojsx.vercel.app](http://romariojsx.vercel.app)
-*   🧠  I'm learning React.js and Next.js
 
 
 
