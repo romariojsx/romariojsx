@@ -1,11 +1,5 @@
 Hi 👋 My name is Romário
 ========================
-Desenvolvimento Front end and UI Design
-
-*   🌍  I'm based in Blumenau/SC - Brazil
-*   🖥️  See my portfolio at [romariojsx.vercel.app](http://romariojsx.vercel.app)
-
-
 
 ### Skills
 <p align="left">
